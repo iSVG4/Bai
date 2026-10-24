@@ -28,11 +28,7 @@ You need a Mac, an internet connection, and about 10 GB of free space for Xcode.
 
 Download this repo with **Code → Download ZIP** on GitHub, then unzip it somewhere easy to find, like your Desktop.
 
-**3. Set a bundle ID (recommended)**
-
-Open `project.yml` in any text editor and change `PRODUCT_BUNDLE_IDENTIFIER: com.example.Bai` to something unique, for example `com.yourname.Bai`, it's just a name iOS uses to tell apps apart, it doesn't have to be a real website.
-
-**4. Build it**
+**3. Build it**
 
 Pick one of these:
 
@@ -41,7 +37,7 @@ Pick one of these:
 
 The first build takes a few minutes because it downloads the one dependency, [ZIPFoundation](https://github.com/weichsel/ZIPFoundation), and when it finishes you'll have **`Bai.tipa`** in the project folder, the double-click version also shows it in Finder for you. If it fails, scroll up in the Terminal window and look for the line that says `error`.
 
-**5. Install it on your iPhone**
+**4. Install it on your iPhone**
 
 - Send `Bai.tipa` to your phone, with AirDrop or by copying it into the Files app.
 - Open it with **TrollStore**, either tap the file, then Share, then TrollStore, or tap the install button inside TrollStore and pick the file, then tap **Install**.
