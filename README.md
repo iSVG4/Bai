@@ -1,6 +1,6 @@
 # Bai
 
-Back up and restore other apps' data on [TrollStore](https://github.com/opa334/TrollStore) devices, pick an app, get a zip of its data, then pick that zip later and it's written back.
+Back up and restore other apps' data on [TrollStore](https://github.com/opa334/TrollStore) compatible devices, pick an app, get a zip of its data, then pick that zip later and it's written back.
 
 > **Warning:** Restoring overwrites the target app's data.
 
