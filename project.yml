@@ -17,7 +17,7 @@ targets:
       - package: ZIPFoundation
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.example.Bai
+        PRODUCT_BUNDLE_IDENTIFIER: com.iSVG4.Bai
         INFOPLIST_FILE: Bai/Info.plist
         CODE_SIGN_ENTITLEMENTS: Bai/Bai.entitlements
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
